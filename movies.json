@@ -1,0 +1,25 @@
+{
+"work": [
+{
+"title": "Interestelar",
+"class": "Ficção científica",
+"coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdsrAh6PZECvt22mqhUczdxIWkP433EPdptw&s",
+"description": "Um grupo de astronautas viaja pelo espaço em busca de um novo planeta para a humanidade.",
+"id": 7
+},
+{
+"title": "O Senhor dos Anéis",
+"class": "Fantasia",
+"coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuQd8XWDC3IfLPRfGAIUzhg6KJnBa3iFZtvg&s",
+"description": "Um hobbit recebe a missão de destruir um poderoso anel antes que ele caia nas mãos do mal.",
+"id": 5
+},
+{
+"title": "Homem-Aranha",
+"class": "Ação",
+"coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuQd8XWDC3IfLPRfGAIUzhg6KJnBa3iFZtvg&s",
+"description": "Um jovem ganha poderes extraordinários e passa a combater o crime enquanto enfrenta desafios pessoais.",
+"id": 8
+}
+]
+}
